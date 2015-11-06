@@ -1,5 +1,5 @@
 {
-  "name": "quidditchvideoplayer",
+  "name": "quidviews",
   "private": true,
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
@@ -33,9 +33,42 @@
     "time-grunt": "^1.0.0"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.2.1"
   },
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "description": "An easy to access aggregate of quidditch videos from around the world",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.14",
+    "materialize-css": "^0.97.1",
+    "node-gyp": "^3.0.3",
+    "npm": "^3.3.10",
+    "phantomjs": "^1.9.18",
+    "rebuild": "^0.1.2",
+    "youtube-node": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoody2108/QuidViews.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "materialize",
+    "youtube",
+    "heroku"
+  ],
+  "author": "Alexis Moody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amoody2108/QuidViews/issues"
+  },
+  "homepage": "https://github.com/amoody2108/QuidViews#readme"
 }
