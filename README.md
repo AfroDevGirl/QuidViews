@@ -1,2 +1,12 @@
 # quidditch-video-player
-An angular app that aggregates all quidditch videos publicly available and displays them in an easy to view way. 
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.14.0.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
