@@ -36,7 +36,7 @@
     "node": ">=4.2.1"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node /scripts/app.js",
     "test": "grunt test"
   },
   "description": "An easy to access aggregate of quidditch videos from around the world",
