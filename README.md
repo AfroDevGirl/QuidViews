@@ -1,12 +1,17 @@
-# quidditch-video-player
+# QuidViews
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.14.0.
+This web page allows users to view quidditch videos quickly based on which button is clicked on the page. This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular) and the design is accomplished using Materialize.
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+To run this app locally:
+ - clone this repo onto your local desktop
+ - make sure node 4.1.2 is installed with npm 
+ - run npm install within the repo directory
+ - Run `grunt` for building and `grunt serve` for preview.
 
-## Testing
+Quidviews will be deployed on Heroku shortly for ease of use.
 
-Running `grunt test` will run the unit tests with karma.
+#Contact
+
+if you have any questions or feedback on the app follow me on twitter @AfroDevGirl or open an issue in the repo!
