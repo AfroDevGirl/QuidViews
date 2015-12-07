@@ -51,6 +51,7 @@
     "grunt-cli": "0.1.13",
     "jasmine-core": "^2.3.4",
     "karma": "^0.13.14",
+    "logger": "0.0.1",
     "materialize-css": "^0.97.1",
     "node-gyp": "^3.0.3",
     "npm": "^3.3.10",
