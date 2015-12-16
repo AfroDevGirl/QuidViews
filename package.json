@@ -36,6 +36,7 @@
     "node": ">=4.2.1"
   },
   "scripts": {
+    "postinstall": "grunt uglify",
     "start": "node app/scripts/app.js",
     "test": "grunt test"
   },
